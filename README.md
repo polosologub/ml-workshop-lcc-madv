@@ -42,6 +42,9 @@ https://johnstack.github.io/what-the-machine-saw/
 AI Explorer by Harvard Art Museums
 https://ai.harvardartmuseums.org/
 
+My Thesis Project 
+https://graduateshowcase.arts.ac.uk/project/316244/cover
+
 F. Windhager et al., "Visualization of Cultural Heritage Collection Data: State of the Art and Future Challenges," in IEEE Transactions on Visualization and Computer Graphics, vol. 25, no. 6, pp. 2311-2330, 1 June 2019, doi: 10.1109/TVCG.2018.2830759.
 https://ieeexplore.ieee.org/document/8352050
 
