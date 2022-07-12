@@ -49,6 +49,15 @@ Elena Villaespesa & Oonagh Murphy (2021) This is not an apple! Benefits and chal
 https://www.tandfonline.com/doi/full/10.1080/09647775.2021.1873827?journalCode=rmmc20
 
 
+### More on ML
+
+Understanding UMAP 
+https://pair-code.github.io/understanding-umap/
+
+Excavating AI
+https://excavating.ai/
+
+
 
 
 
