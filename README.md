@@ -63,7 +63,7 @@ https://pair-code.github.io/understanding-umap/
 Excavating AI  
 https://excavating.ai/
 
-Neural Networks by 3Blue1Brown 
+Neural Networks by 3Blue1Brown  
 https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
 
